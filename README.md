@@ -1,4 +1,9 @@
-# Welcome to Karl's Portfolio
+![Liquidity_Engine](https://github.com/user-attachments/assets/cb3aec25-7373-4ee5-ab22-154a58c1cbf4)# Welcome to Karl's Portfolio
+
+
+
+![Liquidity_Engine](https://github.com/user-attachments/assets/a3d76726-dcb1-4201-83c2-9b9a007c0c1a)
+
 
 <!--
 **kalli44100/kalli44100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
