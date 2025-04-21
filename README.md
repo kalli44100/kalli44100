@@ -9,7 +9,7 @@ I've been programming Sound and Financial Data for many years now wriggling my w
 * 🌍  I'm based in London, Leyton
 * 🚀  I'm currently working on [My Liquidity Engine](http://www.liquidity-engine.com)
 * 🧠  I'm learning Python
-* ⚡  I'm the Futures Evangelist, trying to convert Traders to give up CFD and Spreadbetting and move into the world of Futures Trading
+* ⚡  I'm the Futures Evangelist, trying to convert Traders to give up CFD and Spreadbetting and move into the world of Futures
 
 ### Skills
 
