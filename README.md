@@ -4,7 +4,7 @@
 Data Technician, Futures Evangelist, Audio Afficionado
 ------------------------------------------------------
 
-I've been programming Sound and Financial Data for many years now wriggling my way through many a custom software package. I finally pushed through the Cisco Essentials Course in Python as well as multiple DataCamp Python courses in order gain a solid foundation for a general programming language and to better allow me to code hand in hand with AI to build my own software
+I've been programming Sound and Financial Data for many years now wriggling my way through many a custom software package. I finally pushed through the Cisco Essentials Course in Python as well as multiple DataCamp Python courses in order to gain a solid foundation for a general programming language and to better allow me to code hand in hand with AI to build my own software.
 
 * 🌍  I'm based in London, Leyton
 * 🚀  I'm currently working on [My Liquidity Engine](http://www.liquidity-engine.com)
