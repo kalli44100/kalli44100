@@ -6,10 +6,13 @@ Data Technician, Futures Evangelist, Audio Afficionado
 
 I've been programming Sound and Financial Data for many years now wriggling my way through many a custom software package. I finally pushed through the Cisco Essentials Course in Python as well as multiple DataCamp Python courses in order to gain a solid foundation for a general programming language and to better allow me to code hand in hand with AI to build my own software.
 
-* 🌍  I'm based in London, Leyton
-* 🚀  I'm currently working on my [Liquidity Engine](http://www.liquidity-engine.com)
-* 🧠  I'm learning Python
-* ⚡  I'm the Futures Evangelist, trying to convert Traders to give up CFD and Spreadbetting and move into the world of Futures
+* I'm based in London, Leyton
+* I'm currently working on my [Liquidity Engine](https://github.com/kalli44100/Liquidity-Engine)
+* I've completed a Data Analysis BootCamp and this is what I learned: [Data-Analysis](https://github.com/kalli44100/Data-Analysis)
+* I'm the Futures Evangelist, trying to convert Traders to give up CFD and Spreadbetting and move into the world of Futures. Read more about me as a teacher here [Teaching](https://github.com/kalli44100/Teaching)
+* I've done a lot of coding throughout my trading career (see [Indicators](https://github.com/kalli44100/Indicators)) and am currently improving my Python as well as going back to my roots with SuperCollider for Audio Synthesis
+* I spent a decade working in Media which has given me a lot of transferrable skills. And sometimes I even met some celebrities, click here if you want to know whom: [Media](https://github.com/kalli44100/Media)
+* I like to keep busy, take a look here if you would like to find out more [about me](https://github.com/kalli44100/AboutMe)
 
 ### Skills
 
